@@ -1,0 +1,468 @@
+{
+  "version": "2026-08",
+  "generatedAt": "2026-08-26T00:01:27.292688Z",
+  "nextUpdate": "2026-09-25",
+  "vocabulary": {
+    "beginner": [
+      {
+        "word": "achieve",
+        "phonetic": "/əˈtʃiːv/",
+        "type": "verb",
+        "meaning": "đạt được, hoàn thành",
+        "example": "She achieved her goal.",
+        "example_vi": "Cô ấy đã đạt được mục tiêu.",
+        "topic": "work"
+      },
+      {
+        "word": "anxious",
+        "phonetic": "/ˈæŋkʃəs/",
+        "type": "adjective",
+        "meaning": "lo lắng, hồi hộp",
+        "example": "He felt anxious before the exam.",
+        "example_vi": "Anh ấy cảm thấy hồi hộp trước kỳ thi.",
+        "topic": "emotions"
+      },
+      {
+        "word": "benefit",
+        "phonetic": "/ˈbenɪfɪt/",
+        "type": "noun/verb",
+        "meaning": "lợi ích / mang lại lợi ích",
+        "example": "Exercise has many benefits.",
+        "example_vi": "Tập thể dục có nhiều lợi ích.",
+        "topic": "health"
+      },
+      {
+        "word": "curious",
+        "phonetic": "/ˈkjʊəriəs/",
+        "type": "adjective",
+        "meaning": "tò mò",
+        "example": "Children are naturally curious.",
+        "example_vi": "Trẻ em tự nhiên hay tò mò.",
+        "topic": "education"
+      },
+      {
+        "word": "delay",
+        "phonetic": "/dɪˈleɪ/",
+        "type": "noun/verb",
+        "meaning": "sự trì hoãn / trì hoãn",
+        "example": "The flight was delayed.",
+        "example_vi": "Chuyến bay bị trì hoãn.",
+        "topic": "travel"
+      }
+    ],
+    "intermediate": [
+      {
+        "word": "ambiguous",
+        "phonetic": "/æmˈbɪɡjuəs/",
+        "type": "adjective",
+        "meaning": "mơ hồ, không rõ ràng",
+        "example": "The instructions were ambiguous.",
+        "example_vi": "Hướng dẫn không rõ ràng.",
+        "topic": "work"
+      },
+      {
+        "word": "collaborate",
+        "phonetic": "/kəˈlæbəreɪt/",
+        "type": "verb",
+        "meaning": "hợp tác, cộng tác",
+        "example": "We collaborated on the project.",
+        "example_vi": "Chúng tôi hợp tác trong dự án.",
+        "topic": "work"
+      },
+      {
+        "word": "diminish",
+        "phonetic": "/dɪˈmɪnɪʃ/",
+        "type": "verb",
+        "meaning": "giảm bớt, suy giảm",
+        "example": "The pain gradually diminished.",
+        "example_vi": "Cơn đau dần dần giảm bớt.",
+        "topic": "health"
+      },
+      {
+        "word": "eloquent",
+        "phonetic": "/ˈeləkwənt/",
+        "type": "adjective",
+        "meaning": "hùng hồn, lưu loát",
+        "example": "She gave an eloquent speech.",
+        "example_vi": "Cô ấy có bài phát biểu hùng hồn.",
+        "topic": "education"
+      },
+      {
+        "word": "fluctuate",
+        "phonetic": "/ˈflʌktʃueɪt/",
+        "type": "verb",
+        "meaning": "dao động, biến động",
+        "example": "Prices fluctuate with demand.",
+        "example_vi": "Giá dao động theo nhu cầu.",
+        "topic": "work"
+      }
+    ],
+    "advanced": [
+      {
+        "word": "juxtapose",
+        "phonetic": "/ˌdʒʌkstəˈpəʊz/",
+        "type": "verb",
+        "meaning": "đặt cạnh nhau để so sánh",
+        "example": "The artist juxtaposed old and new.",
+        "example_vi": "Nghệ sĩ đặt cái cũ và mới cạnh nhau.",
+        "topic": "culture"
+      },
+      {
+        "word": "mitigate",
+        "phonetic": "/ˈmɪtɪɡeɪt/",
+        "type": "verb",
+        "meaning": "giảm nhẹ, làm dịu bớt",
+        "example": "We must mitigate climate risks.",
+        "example_vi": "Chúng ta phải giảm thiểu rủi ro khí hậu.",
+        "topic": "environment"
+      },
+      {
+        "word": "nuance",
+        "phonetic": "/ˈnjuːɑːns/",
+        "type": "noun",
+        "meaning": "sắc thái, chi tiết tinh tế",
+        "example": "She understood the nuances.",
+        "example_vi": "Cô ấy hiểu được các sắc thái.",
+        "topic": "education"
+      },
+      {
+        "word": "pragmatic",
+        "phonetic": "/præɡˈmætɪk/",
+        "type": "adjective",
+        "meaning": "thực dụng, thiết thực",
+        "example": "Take a pragmatic approach.",
+        "example_vi": "Hãy tiếp cận theo hướng thực dụng.",
+        "topic": "work"
+      },
+      {
+        "word": "ubiquitous",
+        "phonetic": "/juːˈbɪkwɪtəs/",
+        "type": "adjective",
+        "meaning": "có mặt khắp nơi, phổ biến",
+        "example": "Smartphones are ubiquitous.",
+        "example_vi": "Điện thoại thông minh có mặt khắp nơi.",
+        "topic": "technology"
+      }
+    ]
+  },
+  "grammar": {
+    "beginner": [
+      {
+        "id": "g_b_001",
+        "question": "She ___ to school every day.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "gone"
+        ],
+        "answer": 1,
+        "explanation": "'She' là ngôi 3 số ít, thì hiện tại đơn thêm 's' vào động từ → goes.",
+        "topic": "present_simple",
+        "cefr": "A1"
+      },
+      {
+        "id": "g_b_002",
+        "question": "I ___ a book yesterday.",
+        "options": [
+          "read",
+          "reads",
+          "reading",
+          "am reading"
+        ],
+        "answer": 0,
+        "explanation": "Thì quá khứ đơn với 'yesterday'. 'Read' có dạng quá khứ giống hiện tại.",
+        "topic": "past_simple",
+        "cefr": "A2"
+      },
+      {
+        "id": "g_b_003",
+        "question": "There ___ many people at the party.",
+        "options": [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        "answer": 1,
+        "explanation": "'People' là danh từ số nhiều → dùng 'are'.",
+        "topic": "there_is_are",
+        "cefr": "A1"
+      },
+      {
+        "id": "g_b_004",
+        "question": "Can you help ___?",
+        "options": [
+          "I",
+          "my",
+          "me",
+          "mine"
+        ],
+        "answer": 2,
+        "explanation": "Sau động từ dùng tân ngữ (object pronoun) → 'me'.",
+        "topic": "pronouns",
+        "cefr": "A2"
+      },
+      {
+        "id": "g_b_005",
+        "question": "She is ___ honest person.",
+        "options": [
+          "a",
+          "an",
+          "the",
+          "—"
+        ],
+        "answer": 1,
+        "explanation": "'Honest' bắt đầu bằng nguyên âm /ɒ/ → dùng 'an'.",
+        "topic": "articles",
+        "cefr": "A2"
+      }
+    ],
+    "intermediate": [
+      {
+        "id": "g_i_001",
+        "question": "I ___ here for three years.",
+        "options": [
+          "live",
+          "lived",
+          "have lived",
+          "am living"
+        ],
+        "answer": 2,
+        "explanation": "Hành động bắt đầu quá khứ, kéo dài đến hiện tại → Present Perfect 'have lived'.",
+        "topic": "present_perfect",
+        "cefr": "B1"
+      },
+      {
+        "id": "g_i_002",
+        "question": "If I ___ rich, I would travel the world.",
+        "options": [
+          "am",
+          "was",
+          "were",
+          "be"
+        ],
+        "answer": 2,
+        "explanation": "Câu điều kiện loại 2 (giả định): If + were → would + V.",
+        "topic": "conditionals",
+        "cefr": "B1"
+      },
+      {
+        "id": "g_i_003",
+        "question": "The report ___ by the manager tomorrow.",
+        "options": [
+          "will review",
+          "will be reviewed",
+          "is reviewing",
+          "reviews"
+        ],
+        "answer": 1,
+        "explanation": "Bị động thì tương lai: will be + past participle.",
+        "topic": "passive_voice",
+        "cefr": "B2"
+      },
+      {
+        "id": "g_i_004",
+        "question": "You ___ smoke here — it's forbidden.",
+        "options": [
+          "can't",
+          "mustn't",
+          "needn't",
+          "shouldn't"
+        ],
+        "answer": 1,
+        "explanation": "'Mustn't' diễn tả sự cấm đoán mạnh. 'Can't' = không có khả năng.",
+        "topic": "modal_verbs",
+        "cefr": "B1"
+      },
+      {
+        "id": "g_i_005",
+        "question": "She suggested ___ earlier.",
+        "options": [
+          "to leave",
+          "leaving",
+          "leave",
+          "left"
+        ],
+        "answer": 1,
+        "explanation": "Sau 'suggest' dùng V-ing, không dùng to-infinitive.",
+        "topic": "gerund_infinitive",
+        "cefr": "B2"
+      }
+    ],
+    "advanced": [
+      {
+        "id": "g_a_001",
+        "question": "___ hard she tried, she couldn't solve it.",
+        "options": [
+          "However",
+          "No matter",
+          "Although",
+          "Despite"
+        ],
+        "answer": 0,
+        "explanation": "'However + adjective/adverb' = dù ... đến đâu. Đây là cấu trúc nhượng bộ nâng cao.",
+        "topic": "concession",
+        "cefr": "C1"
+      },
+      {
+        "id": "g_a_002",
+        "question": "Had I known earlier, I ___ differently.",
+        "options": [
+          "would act",
+          "would have acted",
+          "had acted",
+          "will act"
+        ],
+        "answer": 1,
+        "explanation": "Câu điều kiện loại 3 đảo ngữ: Had + S + V3 → would have + V3.",
+        "topic": "inversion",
+        "cefr": "C1"
+      },
+      {
+        "id": "g_a_003",
+        "question": "It is essential that he ___ on time.",
+        "options": [
+          "is",
+          "be",
+          "was",
+          "will be"
+        ],
+        "answer": 1,
+        "explanation": "Sau 'It is essential that' dùng subjunctive (nguyên mẫu không 'to').",
+        "topic": "subjunctive",
+        "cefr": "C1"
+      },
+      {
+        "id": "g_a_004",
+        "question": "Not only ___ late, but he also forgot.",
+        "options": [
+          "he was",
+          "was he",
+          "he is",
+          "is he"
+        ],
+        "answer": 1,
+        "explanation": "Đảo ngữ sau 'Not only': Not only + auxiliary + S + V.",
+        "topic": "inversion",
+        "cefr": "C2"
+      },
+      {
+        "id": "g_a_005",
+        "question": "The findings, ___ were unexpected, changed everything.",
+        "options": [
+          "who",
+          "which",
+          "that",
+          "what"
+        ],
+        "answer": 1,
+        "explanation": "Mệnh đề quan hệ không xác định (non-defining) dùng 'which', không dùng 'that'.",
+        "topic": "relative_clauses",
+        "cefr": "C1"
+      }
+    ]
+  },
+  "stats": {
+    "words": 15,
+    "grammarQ": 15,
+    "readingPassages": 3
+  },
+  "reading": [
+    {
+      "level": "beginner",
+      "cefr": "A2",
+      "title": "My Daily Routine",
+      "passage": "My name is Lan. Every morning, I wake up at 6 o'clock. I brush my teeth and wash my face. Then I eat breakfast with my family. We usually have rice and eggs. After breakfast, I go to work by bus. I work in an office near my house. In the evening, I cook dinner and watch TV. I go to bed at 10 o'clock. I love my simple life.",
+      "questions": [
+        {
+          "question": "What time does Lan wake up?",
+          "options": [
+            "5 o'clock",
+            "6 o'clock",
+            "7 o'clock",
+            "8 o'clock"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn nói 'I wake up at 6 o'clock'."
+        },
+        {
+          "question": "How does Lan go to work?",
+          "options": [
+            "By car",
+            "By bike",
+            "By bus",
+            "On foot"
+          ],
+          "answer": 2,
+          "explanation": "Đoạn văn nói 'I go to work by bus'."
+        }
+      ]
+    },
+    {
+      "level": "intermediate",
+      "cefr": "B1",
+      "title": "The Benefits of Remote Work",
+      "passage": "Remote work has become increasingly popular in recent years. Many employees prefer working from home because it offers greater flexibility and eliminates the daily commute. Studies show that remote workers are often more productive, as they face fewer distractions from colleagues. However, working from home can also feel isolating, and some people struggle to maintain a healthy work-life balance. Companies are now adopting hybrid models, allowing employees to split their time between home and office.",
+      "questions": [
+        {
+          "question": "According to the passage, why are remote workers often more productive?",
+          "options": [
+            "They work longer hours",
+            "They have fewer distractions",
+            "They earn more money",
+            "They have better equipment"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn nói 'remote workers are often more productive, as they face fewer distractions from colleagues'."
+        },
+        {
+          "question": "What solution are companies adopting?",
+          "options": [
+            "Full remote work",
+            "Full office work",
+            "Hybrid models",
+            "Four-day work weeks"
+          ],
+          "answer": 2,
+          "explanation": "Đoạn văn nói 'Companies are now adopting hybrid models'."
+        }
+      ]
+    },
+    {
+      "level": "advanced",
+      "cefr": "C1",
+      "title": "The Paradox of Choice",
+      "passage": "Psychologist Barry Schwartz argues in his influential work that an abundance of choices, rather than liberating individuals, can paradoxically lead to greater dissatisfaction and decision paralysis. When presented with numerous options, consumers often experience what Schwartz terms 'the tyranny of choice' — a phenomenon whereby the possibility of a better alternative renders any selection inherently unsatisfying. This psychological burden is compounded by the tendency to engage in post-decision regret, questioning whether the path not taken might have yielded superior outcomes.",
+      "questions": [
+        {
+          "question": "What does Schwartz mean by 'the tyranny of choice'?",
+          "options": [
+            "Having too few options",
+            "Being forced to choose",
+            "Too many options causing dissatisfaction",
+            "Making the wrong choice"
+          ],
+          "answer": 2,
+          "explanation": "'Tyranny of choice' là hiện tượng có quá nhiều lựa chọn khiến người ta không hài lòng với bất kỳ quyết định nào."
+        },
+        {
+          "question": "What is 'post-decision regret' as described in the passage?",
+          "options": [
+            "Regretting a decision before making it",
+            "Wondering if another option was better after choosing",
+            "Being unable to make any decision",
+            "Choosing the most expensive option"
+          ],
+          "answer": 1,
+          "explanation": "'Post-decision regret' là xu hướng đặt câu hỏi liệu lựa chọn khác có tốt hơn không sau khi đã quyết định."
+        }
+      ]
+    }
+  ],
+  "source": {
+    "vocabulary": "Oxford 3000/5000 word list — bundled in repo",
+    "grammar": "Claude AI — Cambridge/IELTS style",
+    "reading": "Claude AI — authentic passage style"
+  }
+}
